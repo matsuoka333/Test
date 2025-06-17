@@ -1,0 +1,3 @@
+*.txt diff=sjis
+*.html diff=sjis
+*.bas diff=sjis
